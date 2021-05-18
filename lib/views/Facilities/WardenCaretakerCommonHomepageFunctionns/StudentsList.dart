@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/views/Facilities/WardenCaretakerCommonHomepageFunctionns/StudentDetails.dart';
+
+import 'StudentDetails.dart';
 
 class StudentList extends StatefulWidget {
   @override

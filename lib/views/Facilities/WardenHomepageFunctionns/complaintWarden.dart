@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/views/Facilities/WardenCaretakerCommonHomepageFunctionns/viewComplaint.dart';
+import 'package:hostel_space/views/Facilities/WardenCaretakerCommonHomepageFunctionns/viewComplaint.dart';
 
 class ComplaintWarden extends StatefulWidget {
   @override

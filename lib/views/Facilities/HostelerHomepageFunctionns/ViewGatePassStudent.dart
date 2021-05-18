@@ -1,7 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/views/Facilities/GatepassDecline.dart';
+
 import 'package:hostel_space/views/Facilities/GatePassDetailsStudent.dart';
+
+import '../GatepassDecline.dart';
 
 class ViewGatePassStudent extends StatefulWidget {
   final String roll;

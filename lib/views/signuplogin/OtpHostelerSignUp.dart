@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:hostel_space/additional/Buffer.dart';
 import 'package:hostel_space/services/database.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/additional/Buffer.dart';
 
 class OtpVerificationSignUp extends StatefulWidget {
   final String mobileNo, roll, name;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:hostel_space/views/Facilities/CaretakerHomepageFunctionns/ViewGatepassRequestCaretaker.dart';
+import 'package:hostel_space/views/Facilities/CaretakerHomepageFunctionns/complaintCaretaker.dart';
 import 'package:hostel_space/views/Facilities/StudentRequest.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/views/Facilities/WardenCaretakerCommonHomepageFunctionns/StudentsList.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/views/Facilities/CaretakerHomepageFunctionns/ViewGatepassRequestCaretaker.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/views/Facilities/CaretakerHomepageFunctionns/complaintCaretaker.dart';
+import 'package:hostel_space/views/Facilities/WardenCaretakerCommonHomepageFunctionns/StudentsList.dart';
 
 class CaretakerHomepage extends StatefulWidget {
   final String name;

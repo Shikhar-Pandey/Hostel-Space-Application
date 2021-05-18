@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'file:///C:/Users/shikh/AndroidStudioProjects/hostel_space/lib/additional/icons.dart';
+import 'package:hostel_space/additional/icons.dart';
 import 'package:hostel_space/views/signuplogin/CaretakerSignIn.dart';
 import 'package:hostel_space/views/signuplogin/HostelerSignIn.dart';
 import 'package:hostel_space/views/signuplogin/HostelerSignUp.dart';
